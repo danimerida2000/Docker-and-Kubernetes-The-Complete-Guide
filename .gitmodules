@@ -4,3 +4,6 @@
 [submodule "multi-docker"]
 	path = multi-docker
 	url = git@github.com:danimerida2000/multi-docker.git
+[submodule "multi-container-kubernetes"]
+	path = multi-container-kubernetes
+	url = git@github.com:danimerida2000/multi-container-kubernetes.git
