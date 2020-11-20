@@ -7,3 +7,6 @@
 [submodule "multi-container-kubernetes"]
 	path = multi-container-kubernetes
 	url = git@github.com:danimerida2000/multi-container-kubernetes.git
+[submodule "multi-k8s"]
+	path = multi-k8s
+	url = git@github.com:danimerida2000/multi-k8s.git
